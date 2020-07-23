@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://mania-realfarm-dole.netlify.com/sitemap.xml
